@@ -236,7 +236,7 @@ class _PredictionScreenState extends State<PredictionScreen> {
   AppBar customAppbar() {
     return AppBar(
       title: const Text(
-        Parameters.serverConfiguration,
+        Parameters.predictionTitle,
         style: TextStyle(
           color: ColorConstants.appbarText,
         ),

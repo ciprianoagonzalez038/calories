@@ -1,6 +1,7 @@
 class Parameters {
   static const String nameApp = 'Predicción de Calorías';
   static const String serverConfiguration = 'Configuración del Servidor';
+  static const String predictionTitle = 'Predecir Calorias';
   static const String serverIP = 'IP del Servidor';
   static const String serverPort = 'Puerto del Servidor';
   static const String continueButton = 'Continuar';
