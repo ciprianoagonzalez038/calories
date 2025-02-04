@@ -8,7 +8,7 @@ El objetivo de la aplicación es ayudar a los usuarios a predecir la cantidad de
 
 En el siguiente codelab, se explicará detalladamente el proceso de creación de un modelo de Machine Learning utilizando RandomForestRegressor. Se cubrirán todos los pasos, desde la limpieza de datos y el preprocesamiento, hasta el entrenamiento y la evaluación del modelo.
 
-- [Lab: Proyecto Final IA - Calories Burned]()
+- [Lab: Proyecto Final IA - Calories](https://colab.research.google.com/drive/1jqYPSJfveHjkQGqagvEw0GMUDjXBUxRO?usp=sharing)
 
 
 ## Pasos a seguir
